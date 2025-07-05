@@ -1,8 +1,8 @@
-# ![icon-user](https://simp4.jpg.church/man.png) About Me:
+# About Me:
 A weaboo developer
 
 
-# ![icon-user](https://simp4.jpg.church/network.png) Socials:
+# Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngdatuananh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zennomi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zennomi) 
 
 # 💻 Tech Stack:
